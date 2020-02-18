@@ -2,7 +2,7 @@
 
 namespace EFCoreTutorial
 {
-    public class Class1
+    public class EFCoreTutorial
     {
     }
 }

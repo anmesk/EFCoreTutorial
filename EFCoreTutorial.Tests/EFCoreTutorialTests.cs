@@ -3,7 +3,7 @@ using Xunit;
 
 namespace EFCoreTutorial.Tests
 {
-    public class UnitTest1
+    public class EFCoreTutorialTests
     {
         [Fact]
         public void Test1()
